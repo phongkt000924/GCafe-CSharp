@@ -1,0 +1,11 @@
+D:\Hoc\HK2_20_21\Lap_Trinh_Net_CT246\Report\GCafe\GCafe\Client\Clients\bin\Debug\Clients.exe.config
+D:\Hoc\HK2_20_21\Lap_Trinh_Net_CT246\Report\GCafe\GCafe\Client\Clients\bin\Debug\Clients.exe
+D:\Hoc\HK2_20_21\Lap_Trinh_Net_CT246\Report\GCafe\GCafe\Client\Clients\bin\Debug\Clients.pdb
+D:\Hoc\HK2_20_21\Lap_Trinh_Net_CT246\Report\GCafe\GCafe\Client\Clients\obj\Debug\Clients.csprojAssemblyReference.cache
+D:\Hoc\HK2_20_21\Lap_Trinh_Net_CT246\Report\GCafe\GCafe\Client\Clients\obj\Debug\Clients.Properties.Resources.resources
+D:\Hoc\HK2_20_21\Lap_Trinh_Net_CT246\Report\GCafe\GCafe\Client\Clients\obj\Debug\Clients.csproj.GenerateResource.cache
+D:\Hoc\HK2_20_21\Lap_Trinh_Net_CT246\Report\GCafe\GCafe\Client\Clients\obj\Debug\Clients.csproj.CoreCompileInputs.cache
+D:\Hoc\HK2_20_21\Lap_Trinh_Net_CT246\Report\GCafe\GCafe\Client\Clients\obj\Debug\Clients.exe
+D:\Hoc\HK2_20_21\Lap_Trinh_Net_CT246\Report\GCafe\GCafe\Client\Clients\obj\Debug\Clients.pdb
+D:\Hoc\HK2_20_21\Lap_Trinh_Net_CT246\Report\GCafe\GCafe\Client\Clients\obj\Debug\Clients.ChatBox.resources
+D:\Hoc\HK2_20_21\Lap_Trinh_Net_CT246\Report\GCafe\GCafe\Client\Clients\obj\Debug\Clients.fClient.resources
